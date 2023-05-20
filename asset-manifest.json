@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jwt-auth/static/css/main.53bcab0a.css",
+    "main.js": "/jwt-auth/static/js/main.8b47e7b6.js",
+    "index.html": "/jwt-auth/index.html",
+    "main.53bcab0a.css.map": "/jwt-auth/static/css/main.53bcab0a.css.map",
+    "main.8b47e7b6.js.map": "/jwt-auth/static/js/main.8b47e7b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.8b47e7b6.js"
+  ]
+}
